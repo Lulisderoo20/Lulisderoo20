@@ -26,4 +26,5 @@ Javascript React.js Next.js Node.js Express.js PostgreSQL Sequelize GIT Claramen
 
 📲No dudes en contactarme! Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas.📲
 LinkedIn: https://www.linkedin.com/in/lulisdero/
+
 Email: lulisdero20@gmail.com
