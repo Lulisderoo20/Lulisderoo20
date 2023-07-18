@@ -1,4 +1,5 @@
 Hi there 👋 I´m Lucía Lisdero
+
 🔭 I'm currently working on ... Autonomic Mind
 
 🌱 I'm currently learning ... Next.js
