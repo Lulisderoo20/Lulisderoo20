@@ -1,30 +1,31 @@
-### Hi there 👋 I´m Lucía Lisdero
+Hi there 👋 I´m Lucía Lisdero
+🔭 I'm currently working on ... Autonomic Mind
 
+🌱 I'm currently learning ... Next.js
 
-- 🔭 I’m currently working on ... Autonomic Mind
-- 🌱 I’m currently learning ... Next.js
-- 👯 I’m looking to collaborate on ... Autonomic Jump
-- 🤔 I’m looking for help with ... Next.js
-- 💬 Ask me about ... my passions
-- 😄 Pronouns: ... She
+👯 I'm looking to collaborate on ... Autonomic Jump
 
-- 📲 LinkedIn: https://www.linkedin.com/in/lulisdero/
-- 📲 Email: lulisdero20@gmail.com
+🤔 I'm looking for help with ... Next.js
 
-¿Quién soy?🤓 Soy una Programadora Fullstack orientada al diseño Front-end y creación de material visual.
-Una apasionada por la tecnología, disfruto trabajar con código
+💬 Ask me about ... my passions
 
-¿Qué hago?👩‍💻 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código
+😄 Pronouns: ... She
 
-¿A dónde me dirijo?✈️ Mi objetivo principal es impactar el mundo con código 🎆
+📲 LinkedIn: https://www.linkedin.com/in/lulisdero/
 
-No solo disfruto de la programación por la cantidad de demanda que hay en el mercado. Sino que realmente me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que creíamos ya resueltos.
+📲 Email: lulisdero20@gmail.com
 
-¿Qué tecnologías uso?⚛️ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:
-Javascript React.js Next.js Node.js Express.js PostgreSQL Sequelize GIT Claramente incluyendo HTML y CSS
+Who am I?🤓 I am a Fullstack Programmer oriented to Front-end design and creation of visual material. Passionate about technology, I enjoy working with code
 
+What do I do?👩‍💻 Currently I am dedicated to carrying out projects that allow me to advance my training as a programmer. I love being able to find the solution to life's problems with code
 
-📲No dudes en contactarme! Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas.📲
+Where am I headed?✈️ My main goal is to impact the world with code 🎆
+
+I don't just enjoy programming because of the amount of demand there is on the market. But I am really passionate about broadening my perspective of the things that exist in the world and finding new solutions to problems that we thought were already solved.
+
+What technologies do I use?⚛️ Henry's Bootcamp has allowed me to acquire the fundamental knowledge and experience to get off the ground 🚀 So the main technologies I use are: Javascript React.js Next.js Node.js Express.js PostgreSQL Sequelize GIT Clearly including HTML and CSS
+
+📲 Don't hesitate to contact me! Together we can carry out a great project that changes the lives of thousands of people.📲
 
 LinkedIn: https://www.linkedin.com/in/lulisdero/
 
