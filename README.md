@@ -16,7 +16,7 @@ Hi there 👋 I´m Lucía Lisdero
 
 📲 Email: lulisdero20@gmail.com
 
-Who am I?🤓 I am a Fullstack Programmer oriented to Front-end design and creation of visual material. Passionate about technology, I enjoy working with code.
+Who am I?🤓 I am a Fullstack Programmer oriented to Back-end design and creation of visual material. Passionate about technology, I enjoy working with code.
 
 What do I do?👩‍💻 Currently I am dedicated to carrying out projects that allow me to advance my training as a programmer. I love being able to find the solution to life's problems with code.
 
