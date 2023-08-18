@@ -29,10 +29,10 @@ I don't just enjoy programming because of the amount of demand there is on the m
 What technologies do I use?⚛️ Henry's Bootcamp has allowed me to acquire the fundamental knowledge and experience to get off the ground 
 🚀 So the main technologies I use are: Javascript React.js Next.js Node.js Express.js PostgreSQL Sequelize GIT Clearly including HTML and CSS.
 
-📲 Don't hesitate to contact me! Together we can carry out a great project that changes the lives of thousands of people.📲
+🚀 Don't hesitate to contact me! Together we can carry out a great project that changes the lives of thousands of people.📲
 
-LinkedIn: https://www.linkedin.com/in/lulisdero/
+📲 LinkedIn: https://www.linkedin.com/in/lulisdero/
 
-Email: lulisdero20@gmail.com
+📲 Email: lulisdero20@gmail.com
 
-Portfolio: https://lulisderoo20.github.io/Lulisderoo20/
+📲 Portfolio: https://lulisderoo20.github.io/Lulisderoo20/
