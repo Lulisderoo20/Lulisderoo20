@@ -219,6 +219,11 @@ section h2 {
 }
 
 .skill-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
     padding: 10px;
     width: 90%;
 }
@@ -316,6 +321,14 @@ svg {
 }
 .npm:hover, .npm:focus {
     fill: #CB3837;
+}
+
+.python {
+    fill: #1572B6;
+    transform: scale(.8);
+}
+.python:hover, .python:focus {
+    fill: #1572B6;
 }
 
 .photoshop {
