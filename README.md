@@ -25,8 +25,7 @@ What technologies do I use?⚛️ Henry's Bootcamp has allowed me to acquire the
 
 🚀📲 Don't hesitate to contact me! Together we can carry out a great project that changes the lives of thousands of people.📲🚀
 
-📲 LinkedIn: https://www.linkedin.com/in/lulisdero/
+📲 [LinkedIn](https://www.linkedin.com/in/lulisdero/)
+📧 [Email](mailto:lulisdero20@gmail.com)
+🌐 [Portfolio](https://lulisderoo20.github.io/Lulisderoo20/)
 
-📲 Email: lulisdero20@gmail.com
-
-📲 Portfolio: https://lulisderoo20.github.io/Lulisderoo20/
