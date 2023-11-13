@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hi there 👋 I'm Lucía Lisdero
 
 🔭 **Currently working on:** Autonomic Mind
@@ -40,7 +40,7 @@ Together we can carry out a great project that changes the lives of thousands of
 - 📲 [LinkedIn](https://www.linkedin.com/in/lulisdero/)
 - 📧 [Email](mailto:lulisdero20@gmail.com)
 - 🌐 [Portfolio](https://lulisderoo20.github.io/Lulisderoo20/)
-=======
+<!-- 
 ## <span style="color:blue">Hi there 👋 I'm Lucía Lisdero</span>
 
 <span style="color:green">🔭 I'm currently working on ... Autonomic Mind</span>
@@ -74,4 +74,4 @@ Together we can carry out a great project that changes the lives of thousands of
 📲 [LinkedIn](https://www.linkedin.com/in/lulisdero/)
 📧 [Email](mailto:lulisdero20@gmail.com)
 🌐 [Portfolio](https://lulisderoo20.github.io/Lulisderoo20/)
->>>>>>> a378d15df6469974e5f506d05664d4bcab012881
+-->
