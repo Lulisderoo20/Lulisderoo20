@@ -1,4 +1,4 @@
-#Hi there 👋 I´m Lucía Lisdero
+## Hi there 👋 I´m Lucía Lisdero
 
 🔭 I'm currently working on ... Autonomic Mind
 
