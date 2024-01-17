@@ -14,7 +14,7 @@
 😄 **Pronouns:** She
 
 ## Who am I? 🤓
-I am a Fullstack Programmer oriented to Back-end design. Passionate about technology, I enjoy working with code.
+I am a Fullstack Programmer oriented to Fullstack design. Passionate about technology, I enjoy working with code.
 
 ## What do I do? 👩‍💻
 Currently, I am dedicated to carrying out projects that allow me to advance my training as a programmer. I love being able to find the solution to life's problems with code.
