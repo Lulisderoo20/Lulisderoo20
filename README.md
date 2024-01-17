@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Lucía Lisdero
 
-🔭 **Currently working on:** Autonomic Mind
+🔭 **Currently working on:** Softtek
 
 🌱 **Currently learning:** Next.js
 
