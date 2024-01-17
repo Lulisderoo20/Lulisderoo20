@@ -3,11 +3,11 @@
 
 🔭 **Currently working on:** Softtek
 
-🌱 **Currently learning:** Next.js
+🌱 **Currently learning:** Python
 
 👯 **Looking to collaborate on:** Autonomic Jump
 
-🤔 **Looking for help with:** Next.js
+🤔 **Looking for help with:** Python
 
 💬 **Ask me about:** my passions
 
