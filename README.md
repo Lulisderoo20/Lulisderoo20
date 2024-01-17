@@ -33,6 +33,11 @@ Henry's Bootcamp has allowed me to acquire the fundamental knowledge and experie
 - Sequelize
 - GIT
 - Clearly including HTML and CSS.
+- Python
+- UIpath
+- Power Automate
+- ABAP
+- coming soon... AWS (I want to study it because I want to save money😂) 
 
 ## 🚀📲 Don't hesitate to contact me!
 Together we can carry out a great project that changes the lives of thousands of people. 📲🚀
